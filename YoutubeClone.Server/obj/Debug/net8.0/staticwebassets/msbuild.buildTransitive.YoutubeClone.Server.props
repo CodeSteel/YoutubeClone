@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\YoutubeClone.Server.props" />
+</Project>
